@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 📘 I also write a blog to share my knowledge and experience in Elastic Stack, Python, NextJs, etc. at [WiseCode Blog](https://wisecode.blog).
 
-📫 You can reach me via [LinkedIn]([https://linkedin.com/in/dminhvu02](https://www.linkedin.com/in/thiennhi/)), [Email](thienphamnhi@gmail.com).
+📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/thiennhi/), [Email](thienphamnhi@gmail.com).
 
 ## 👨‍💻 Technical Skills
 
