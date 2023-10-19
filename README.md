@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-🕵️‍♂ My name is Nhi Pham, I'm from Vietnam 🇻🇳 and working as a freelance Software Engineer.
+🕵️‍♀️ My name is Nhi Pham, I'm from Vietnam 🇻🇳 and working as a freelance Software Engineer.
 
 💻 I mainly use Web Development tools like ReactJs, and NextJs for my daily work.
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/thiennhi/), [Email](thienphamnhi@gmail.com).
 
-## 👨‍💻 Technical Skills
+## 👩‍💻 Technical Skills
 
 I have deep experience in:
 - Web Development with ReactJs, NextJs
