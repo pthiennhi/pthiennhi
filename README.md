@@ -3,9 +3,9 @@
 
 ## 🚀 About Me
 
-🕵️‍♀️ My name is Nhi Pham, I'm from Vietnam 🇻🇳 and working as a Software Engineer at CyberLogitech.
+🕵️‍♀️ My name is Nhi Pham, I'm from Vietnam 🇻🇳 and working as a Software Engineer at CyberLogitec.
 
-💻 I mainly use Web Development tools like ReactJs, and NextJs for my daily work.
+💻 I mainly use Web Development tools like NestJs and NextJs for my daily work.
 
 ☀️ In my free time, I love doing side projects such as building AI applications. My most recent project with my teammates was [Formularizer](https://formularizer.com).
 
@@ -15,8 +15,8 @@
 
 I have deep experience in:
 - Web Development with ReactJs, NextJs, GraphQL, TypeORM
-- UI Development with TailwindCSS, Bootstrap, Figma
-- Databases such as Firestore, MySQL
+- UI Development with TailwindCSS, Bootstrap, Figma, Framer Motion 
+- Databases such as Firestore, MySQL, Postgre
 - Backend Development with NestJs
 
 ## 🏫 Education
