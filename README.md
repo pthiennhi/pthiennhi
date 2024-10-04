@@ -3,9 +3,9 @@
 
 ## 🚀 About Me
 
-🕵️‍♀️ My name is Nhi Pham, I'm from Vietnam 🇻🇳 and working as a Software Engineer at CyberLogitec.
+🕵️‍♀️ My name is Nhi Pham, I'm from Vietnam 🇻🇳 and working as a Software Engineer at CyberLogitec Vietnam.
 
-💻 I mainly use Web Development tools like NestJs and NextJs for my daily work.
+💻 I mainly use Web Development tools like NextJs and NestJs for my daily work.
 
 ☀️ In my free time, I love doing side projects such as building AI applications. My most recent project with my teammates was [Formularizer](https://formularizer.com).
 
