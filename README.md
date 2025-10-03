@@ -23,11 +23,11 @@ I have deep experience in:
   
 ## 🏫 Education
 
-- **M.Sc. in Computer Science (Expected)**
+- **M.Sc. in Computer Science**
 
   Universität Passau, Germany
 
-  Oct 2025 – Apr 2027
+  Oct 2025 – Apr 2027 (Expected)
 
 - **B.Sc. in Software Engineering**
 
