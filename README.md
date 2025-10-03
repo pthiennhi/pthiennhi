@@ -2,7 +2,7 @@
 ---
 
 ## 🚀 About Me
-🕵️‍♀️ I’m Nhi Pham, a software developer from Vietnam 🇻🇳, now living in Passau, Germany 🇩🇪.
+🕵️‍♀️ I’m Nhi Pham (just call me Nina), a software developer from Vietnam 🇻🇳, now living in Passau, Germany 🇩🇪.
 Currently, I’m studying for an M.Sc. in Computer Science at Universität Passau (2025–2027).
 
 At CyberLogitec Vietnam, I worked as a **Full-stack JavaScript Developer** on large-scale enterprise systems, including a container management platform for Ocean Network Express (ONE), the world’s 6th largest shipping carrier.
